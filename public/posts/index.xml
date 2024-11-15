@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on My New Hugo Site</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 16 Nov 2024 01:46:45 +0800</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>忙活了半天还是没太搞懂这个hugo怎么用</title>
+            <link>http://localhost:1313/posts/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</link>
+            <pubDate>Sat, 16 Nov 2024 01:46:45 +0800</pubDate>
+            
+            <guid>http://localhost:1313/posts/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</guid>
+            <description>&lt;p&gt;虽然但是，还是磕磕绊绊地成功了罢&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>虽然但是，还是磕磕绊绊地成功了罢</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
