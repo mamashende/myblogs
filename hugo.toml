@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://myblogs-2uy.pages.dev/'
 languageCode = 'zh-cn'
 title = 'My New Hugo Site'
 theme = 'hello-friend-ng'
