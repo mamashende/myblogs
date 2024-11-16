@@ -255,6 +255,10 @@ disableHugoGeneratorInject = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.fr.params]
     subtitle  = "Hello Friend NG Theme"
+  [languages.zh-cn]
+    languageName = "Chinese"
+    weight = 1
+    hasCJKLanguage = true
 
 [menu]
   [[menu.main]]
