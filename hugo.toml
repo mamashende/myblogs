@@ -13,6 +13,10 @@ theme = 'hello-friend-ng'
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.tags]]
+    identifier = "tags"
+    name       = "Tags"
+    url        = "tags/"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"

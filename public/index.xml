@@ -78,5 +78,12 @@
       <guid>http://localhost:1313/template/t/</guid>
       <description></description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/draft/%E6%9C%AA%E5%91%BD%E5%90%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/draft/%E6%9C%AA%E5%91%BD%E5%90%8D/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
