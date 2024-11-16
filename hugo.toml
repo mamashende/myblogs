@@ -1,6 +1,6 @@
 baseURL = 'https://myblogs-2uy.pages.dev/'
 languageCode = 'zh-cn'
-title = 'My New Hugo Site'
+title = 'mamashende-blog'
 theme = 'hello-friend-ng'
 
 
@@ -13,3 +13,49 @@ theme = 'hello-friend-ng'
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[pagination]
+  disableAliases = false
+  pagerSize = 20
+  path = 'page'
+
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+
+
+[params.logo]
+    logoMark     = ">"
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+
+
+[[params.social]]
+    name = "github"
+    url  = "https://github.com/mamashende"

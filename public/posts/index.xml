@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on My New Hugo Site</title>
+        <title>Posts on mamashende-blog</title>
         <link>http://localhost:1313/posts/</link>
-        <description>Recent content in Posts on My New Hugo Site</description>
+        <description>Recent content in Posts on mamashende-blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Sat, 16 Nov 2024 14:36:57 +0800</lastBuildDate>
@@ -10,10 +10,10 @@
         
         <item>
             <title>未来的博客规划</title>
-            <link>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</link>
+            <link>http://localhost:1313/posts/2024/11/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</link>
             <pubDate>Sat, 16 Nov 2024 14:36:57 +0800</pubDate>
             
-            <guid>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</guid>
+            <guid>http://localhost:1313/posts/2024/11/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</guid>
             <description>&lt;p&gt;基本目标：
 首先，要有一个博客主页面，能够展示最近或者被star的posts，并能够引导前往博客详情页面
 其次，博客详情页面要有跳转回主页的按钮&lt;/p&gt;
@@ -35,10 +35,10 @@ tag设置
         
         <item>
             <title>Game over, Bro</title>
-            <link>http://localhost:1313/posts/game-over-bro/</link>
+            <link>http://localhost:1313/posts/2024/11/game-over-bro/</link>
             <pubDate>Sat, 16 Nov 2024 02:25:39 +0800</pubDate>
             
-            <guid>http://localhost:1313/posts/game-over-bro/</guid>
+            <guid>http://localhost:1313/posts/2024/11/game-over-bro/</guid>
             <description>&lt;p&gt;常年玩游戏的人大都目光呆滞,极度自卑,且智商逐年下降,最后完全沦为傻子。&lt;br&gt;
 玩游戏会破环身体结构,引发各种不治之症。&lt;br&gt;
 人一旦开始玩游戏就说明这个人的智慧品行样貌通通都是下等,这辈子只能在阴沟里苟延残喘。&lt;br&gt;
@@ -54,10 +54,10 @@ tag设置
         
         <item>
             <title>成功力</title>
-            <link>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E6%88%90%E5%8A%9F/</link>
+            <link>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</link>
             <pubDate>Sat, 16 Nov 2024 02:17:55 +0800</pubDate>
             
-            <guid>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E6%88%90%E5%8A%9F/</guid>
+            <guid>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</guid>
             <description>&lt;p&gt;&lt;em&gt;太好了，终于成功了&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;简陋但是能用的博客&#34;&gt;简陋但是能用的博客&lt;/h2&gt;
 &lt;p&gt;简陋到连博主个人介绍都没有
@@ -85,10 +85,10 @@ tag设置
         
         <item>
             <title>忙活了半天还是没太搞懂这个hugo怎么用</title>
-            <link>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</link>
+            <link>http://localhost:1313/posts/2024/11/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</link>
             <pubDate>Sat, 16 Nov 2024 01:46:45 +0800</pubDate>
             
-            <guid>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</guid>
+            <guid>http://localhost:1313/posts/2024/11/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</guid>
             <description>&lt;p&gt;虽然但是，还是磕磕绊绊地成功了罢&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>虽然但是，还是磕磕绊绊地成功了罢</p>
 ]]></content>
@@ -96,10 +96,10 @@ tag设置
         
         <item>
             <title>大概成功了罢</title>
-            <link>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/%E8%B2%8C%E4%BC%BC%E6%88%90%E5%8A%9F%E4%BA%86/</link>
+            <link>http://localhost:1313/posts/2024/11/%E5%A4%A7%E6%A6%82%E6%88%90%E5%8A%9F%E4%BA%86%E7%BD%A2/</link>
             <pubDate>Sat, 16 Nov 2024 01:36:08 +0800</pubDate>
             
-            <guid>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/%E8%B2%8C%E4%BC%BC%E6%88%90%E5%8A%9F%E4%BA%86/</guid>
+            <guid>http://localhost:1313/posts/2024/11/%E5%A4%A7%E6%A6%82%E6%88%90%E5%8A%9F%E4%BA%86%E7%BD%A2/</guid>
             <description>&lt;p&gt;测试看看&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>测试看看</p>
 ]]></content>
