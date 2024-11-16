@@ -6,8 +6,15 @@
     <description>Recent content on mamashende-blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 16 Nov 2024 14:36:57 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 16:26:15 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 16 Nov 2024 16:26:15 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;自我介绍&#34;&gt;自我介绍：&lt;/h3&gt;&#xA;&lt;p&gt;我是mamashende(很怪的名字，当然不是真名)&lt;/p&gt;&#xA;&lt;p&gt;目前是计算机科学与技术在校本科生，正在想办法找工作&lt;/p&gt;&#xA;&lt;p&gt;脑袋里面总有一堆奇怪而又无用的想法，有时会参与一些开源项目&lt;/p&gt;&#xA;&lt;p&gt;总之，欢迎来我的博客参观！&lt;/p&gt;</description>
+    </item>
     <item>
       <title>未来的博客规划</title>
       <link>http://localhost:1313/draft/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</link>
