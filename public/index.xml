@@ -6,12 +6,19 @@
     <description>Recent content on mamashende-blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 16 Nov 2024 16:35:44 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 16:37:50 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>忙活了半天还是没太搞懂这个hugo怎么用</title>
+      <link>http://localhost:1313/posts/2024/11/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</link>
+      <pubDate>Sat, 16 Nov 2024 16:37:50 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2024/11/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</guid>
+      <description>&lt;p&gt;虽然但是，还是磕磕绊绊地成功了罢&lt;/p&gt;</description>
+    </item>
     <item>
       <title>成功力</title>
       <link>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</link>
-      <pubDate>Sat, 16 Nov 2024 16:35:44 +0800</pubDate>
+      <pubDate>Sat, 16 Nov 2024 16:37:28 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</guid>
       <description>&lt;p&gt;&lt;em&gt;太好了，终于成功了&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;简陋但是能用的博客&#34;&gt;简陋但是能用的博客&lt;/h2&gt;&#xA;&lt;p&gt;简陋到连博主个人介绍都没有&#xA;未来可能会加东西&lt;/p&gt;&#xA;&lt;h2 id=&#34;原理&#34;&gt;原理&lt;/h2&gt;&#xA;&lt;p&gt;原材料：Git ,Github, Hugo, 以及Cloudflare这家神仙公司提供的免费pages服务(静态网页服务器)&lt;/p&gt;&#xA;&lt;p&gt;参考资料如下：&#xA;&lt;a href=&#34;https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/&#34;&gt;https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;非常感谢各路大神想出来的解决方案，以及免费提供网络服务的Github&amp;amp;&amp;amp;Cloudflare&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;仍然存在的一些问题&#34;&gt;仍然存在的一些问题&lt;/h2&gt;&#xA;&lt;p&gt;obsidian的markdown具有独有语法特性，与hugo的markdown不一定兼容，因此可能导致博客内容排版问题&lt;/p&gt;</description>
     </item>
@@ -49,13 +56,6 @@
       <pubDate>Sat, 16 Nov 2024 02:25:39 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/11/game-over-bro/</guid>
       <description>&lt;p&gt;常年玩游戏的人大都目光呆滞,极度自卑,且智商逐年下降,最后完全沦为傻子。&lt;br&gt;&#xA;玩游戏会破环身体结构,引发各种不治之症。&lt;br&gt;&#xA;人一旦开始玩游戏就说明这个人的智慧品行样貌通通都是下等,这辈子只能在阴沟里苟延残喘。&lt;br&gt;&#xA;玩游戏的玩家具有强烈的反社会倾向.对治安稳定造成破坏，危害正常人的生命。&#xA;（切勿当真，如有雷同，纯属巧合）&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>忙活了半天还是没太搞懂这个hugo怎么用</title>
-      <link>http://localhost:1313/posts/2024/11/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</link>
-      <pubDate>Sat, 16 Nov 2024 01:46:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/2024/11/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</guid>
-      <description>&lt;p&gt;虽然但是，还是磕磕绊绊地成功了罢&lt;/p&gt;</description>
     </item>
     <item>
       <title>First_post</title>
