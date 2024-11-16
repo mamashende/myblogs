@@ -10,11 +10,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh-cn/categories/"
                 />
@@ -24,11 +19,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,11 +34,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh-cn/series/"
                 />
@@ -58,11 +43,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
