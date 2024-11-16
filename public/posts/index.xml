@@ -5,13 +5,38 @@
         <description>Recent content in Posts on mamashende-blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 16 Nov 2024 16:37:50 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 16:39:53 +0800</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>未来的博客规划</title>
+            <link>http://localhost:1313/posts/2024/11/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</link>
+            <pubDate>Sat, 16 Nov 2024 16:39:53 +0800</pubDate>
+            
+            <guid>http://localhost:1313/posts/2024/11/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</guid>
+            <description>&lt;p&gt;基本目标：
+首先，要有一个博客主页面，能够展示最近或者被star的posts，并能够引导前往博客详情页面
+其次，博客详情页面要有跳转回主页的按钮&lt;/p&gt;
+&lt;p&gt;进阶目标：
+图床问题
+侧边栏
+tag设置
+下方友情链接&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>基本目标：
+首先，要有一个博客主页面，能够展示最近或者被star的posts，并能够引导前往博客详情页面
+其次，博客详情页面要有跳转回主页的按钮</p>
+<p>进阶目标：
+图床问题
+侧边栏
+tag设置
+下方友情链接</p>
+]]></content>
+        </item>
         
         <item>
             <title>忙活了半天还是没太搞懂这个hugo怎么用</title>
             <link>http://localhost:1313/posts/2024/11/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</link>
-            <pubDate>Sat, 16 Nov 2024 16:37:50 +0800</pubDate>
+            <pubDate>Sat, 16 Nov 2024 16:39:48 +0800</pubDate>
             
             <guid>http://localhost:1313/posts/2024/11/%E5%BF%99%E6%B4%BB%E4%BA%86%E5%8D%8A%E5%A4%A9%E8%BF%98%E6%98%AF%E6%B2%A1%E5%A4%AA%E6%90%9E%E6%87%82%E8%BF%99%E4%B8%AAhugo%E6%80%8E%E4%B9%88%E7%94%A8/</guid>
             <description>&lt;p&gt;虽然但是，还是磕磕绊绊地成功了罢&lt;/p&gt;</description>
@@ -22,7 +47,7 @@
         <item>
             <title>成功力</title>
             <link>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</link>
-            <pubDate>Sat, 16 Nov 2024 16:37:28 +0800</pubDate>
+            <pubDate>Sat, 16 Nov 2024 16:39:41 +0800</pubDate>
             
             <guid>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</guid>
             <description>&lt;p&gt;&lt;em&gt;太好了，终于成功了&lt;/em&gt;&lt;/p&gt;
@@ -47,31 +72,6 @@
 <p><strong>非常感谢各路大神想出来的解决方案，以及免费提供网络服务的Github&amp;&amp;Cloudflare</strong></p>
 <h2 id="仍然存在的一些问题">仍然存在的一些问题</h2>
 <p>obsidian的markdown具有独有语法特性，与hugo的markdown不一定兼容，因此可能导致博客内容排版问题</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>未来的博客规划</title>
-            <link>http://localhost:1313/posts/2024/11/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</link>
-            <pubDate>Sat, 16 Nov 2024 14:36:57 +0800</pubDate>
-            
-            <guid>http://localhost:1313/posts/2024/11/%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%A7%84%E5%88%92/</guid>
-            <description>&lt;p&gt;基本目标：
-首先，要有一个博客主页面，能够展示最近或者被star的posts，并能够引导前往博客详情页面
-其次，博客详情页面要有跳转回主页的按钮&lt;/p&gt;
-&lt;p&gt;进阶目标：
-图床问题
-侧边栏
-tag设置
-下方友情链接&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p>基本目标：
-首先，要有一个博客主页面，能够展示最近或者被star的posts，并能够引导前往博客详情页面
-其次，博客详情页面要有跳转回主页的按钮</p>
-<p>进阶目标：
-图床问题
-侧边栏
-tag设置
-下方友情链接</p>
 ]]></content>
         </item>
         
