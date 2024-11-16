@@ -5,8 +5,39 @@
         <description>Recent content in Posts on mamashende-blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 16 Nov 2024 14:36:57 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 16:35:44 +0800</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>成功力</title>
+            <link>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</link>
+            <pubDate>Sat, 16 Nov 2024 16:35:44 +0800</pubDate>
+            
+            <guid>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</guid>
+            <description>&lt;p&gt;&lt;em&gt;太好了，终于成功了&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;简陋但是能用的博客&#34;&gt;简陋但是能用的博客&lt;/h2&gt;
+&lt;p&gt;简陋到连博主个人介绍都没有
+未来可能会加东西&lt;/p&gt;
+&lt;h2 id=&#34;原理&#34;&gt;原理&lt;/h2&gt;
+&lt;p&gt;原材料：Git ,Github, Hugo, 以及Cloudflare这家神仙公司提供的免费pages服务(静态网页服务器)&lt;/p&gt;
+&lt;p&gt;参考资料如下：
+&lt;a href=&#34;https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/&#34;&gt;https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;非常感谢各路大神想出来的解决方案，以及免费提供网络服务的Github&amp;amp;&amp;amp;Cloudflare&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;仍然存在的一些问题&#34;&gt;仍然存在的一些问题&lt;/h2&gt;
+&lt;p&gt;obsidian的markdown具有独有语法特性，与hugo的markdown不一定兼容，因此可能导致博客内容排版问题&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p><em>太好了，终于成功了</em></p>
+<h2 id="简陋但是能用的博客">简陋但是能用的博客</h2>
+<p>简陋到连博主个人介绍都没有
+未来可能会加东西</p>
+<h2 id="原理">原理</h2>
+<p>原材料：Git ,Github, Hugo, 以及Cloudflare这家神仙公司提供的免费pages服务(静态网页服务器)</p>
+<p>参考资料如下：
+<a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/</a></p>
+<p><strong>非常感谢各路大神想出来的解决方案，以及免费提供网络服务的Github&amp;&amp;Cloudflare</strong></p>
+<h2 id="仍然存在的一些问题">仍然存在的一些问题</h2>
+<p>obsidian的markdown具有独有语法特性，与hugo的markdown不一定兼容，因此可能导致博客内容排版问题</p>
+]]></content>
+        </item>
         
         <item>
             <title>未来的博客规划</title>
@@ -49,37 +80,6 @@ tag设置
 人一旦开始玩游戏就说明这个人的智慧品行样貌通通都是下等,这辈子只能在阴沟里苟延残喘。<br>
 玩游戏的玩家具有强烈的反社会倾向.对治安稳定造成破坏，危害正常人的生命。
 （切勿当真，如有雷同，纯属巧合）</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>成功力</title>
-            <link>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</link>
-            <pubDate>Sat, 16 Nov 2024 02:17:55 +0800</pubDate>
-            
-            <guid>http://localhost:1313/posts/2024/11/%E6%88%90%E5%8A%9F%E5%8A%9B/</guid>
-            <description>&lt;p&gt;&lt;em&gt;太好了，终于成功了&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;简陋但是能用的博客&#34;&gt;简陋但是能用的博客&lt;/h2&gt;
-&lt;p&gt;简陋到连博主个人介绍都没有
-未来可能会加东西&lt;/p&gt;
-&lt;h2 id=&#34;原理&#34;&gt;原理&lt;/h2&gt;
-&lt;p&gt;原材料：Git ,Github, Hugo, 以及Cloudflare这家神仙公司提供的免费pages服务(静态网页服务器)&lt;/p&gt;
-&lt;p&gt;参考资料如下：
-&lt;a href=&#34;https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/&#34;&gt;https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;非常感谢各路大神想出来的解决方案，以及免费提供网络服务的Github&amp;amp;&amp;amp;Cloudflare&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;仍然存在的一些问题&#34;&gt;仍然存在的一些问题&lt;/h2&gt;
-&lt;p&gt;obsidian的markdown具有独有语法特性，与hugo的markdown不一定兼容，因此可能导致博客内容排版问题&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p><em>太好了，终于成功了</em></p>
-<h2 id="简陋但是能用的博客">简陋但是能用的博客</h2>
-<p>简陋到连博主个人介绍都没有
-未来可能会加东西</p>
-<h2 id="原理">原理</h2>
-<p>原材料：Git ,Github, Hugo, 以及Cloudflare这家神仙公司提供的免费pages服务(静态网页服务器)</p>
-<p>参考资料如下：
-<a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/</a></p>
-<p><strong>非常感谢各路大神想出来的解决方案，以及免费提供网络服务的Github&amp;&amp;Cloudflare</strong></p>
-<h2 id="仍然存在的一些问题">仍然存在的一些问题</h2>
-<p>obsidian的markdown具有独有语法特性，与hugo的markdown不一定兼容，因此可能导致博客内容排版问题</p>
 ]]></content>
         </item>
         

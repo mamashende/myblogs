@@ -59,3 +59,8 @@ disableHugoGeneratorInject = false
 [[params.social]]
     name = "github"
     url  = "https://github.com/mamashende"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
