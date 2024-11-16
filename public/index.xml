@@ -6,14 +6,14 @@
     <description>Recent content on mamashende-blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 16 Nov 2024 17:06:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 17:13:01 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>代码测试小工具开发记录</title>
       <link>http://localhost:1313/draft/%E4%BB%A3%E7%A0%81%E6%B5%8B%E8%AF%95%E5%B0%8F%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/</link>
-      <pubDate>Sat, 16 Nov 2024 17:06:25 +0800</pubDate>
+      <pubDate>Sat, 16 Nov 2024 17:13:01 +0800</pubDate>
       <guid>http://localhost:1313/draft/%E4%BB%A3%E7%A0%81%E6%B5%8B%E8%AF%95%E5%B0%8F%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/</guid>
-      <description>&lt;h2 id=&#34;项目背景&#34;&gt;项目背景&lt;/h2&gt;&#xA;&lt;p&gt;最近有巨量的算法实验以及报告要写，报告中对于算法的测试有一定的要求，我一直都想实现一个小工具帮我进行自动化的代码测试以及报告生成&lt;/p&gt;&#xA;&lt;h2 id=&#34;基本介绍&#34;&gt;基本介绍&lt;/h2&gt;&#xA;&lt;p&gt;这次通过这个机会，以及在Copilot的帮助下，我成功搭建出了一个简单的基于python和go的测试小工具，python负责测试样例的生成以及测试输出结果的分析报告生成，go部分负责需要测试的代码的实现以及运行测试的输入输出基本框架&lt;/p&gt;&#xA;&lt;p&gt;简而言之就是写了两个python脚本负责生成测试数据以及生成简易分析图像，一个go主程序main.go负责读取测试数据，调用需要测试的代码，记时，输出测试结果&#xA;需要测试的代码放在utils下，然后微调main.go中对于输入输出的设置即可&lt;/p&gt;&#xA;&lt;p&gt;项目地址在这里：&#xA;&lt;a href=&#34;https://github.com/mamashende/SimpleAlgorithmTestTool&#34;&gt;https://github.com/mamashende/SimpleAlgorithmTestTool&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;如果觉得好用的话，欢迎大家来提建议&lt;/p&gt;&#xA;&lt;h2 id=&#34;仍然存在的问题&#34;&gt;仍然存在的问题&lt;/h2&gt;&#xA;&lt;p&gt;目前仍然存在的巨大问题：找不到一个统一的方式去处理不同的输入输出要求&lt;/p&gt;&#xA;&lt;p&gt;对于算法的测试，不同的算法有不同的输入输出需求&#xA;例如一些是需要输入一个矩阵，另一些需要输入两个字符串，或者两个数组&#xA;另一些需要输入一个整数+一个字符串或者其他的数组&lt;/p&gt;&#xA;&lt;p&gt;还有一些需要输入指定个数的整数&amp;hellip;&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;因此目前还没有想到一个很好的办法一次性解决所有的输入输出问题&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;项目背景&#34;&gt;项目背景&lt;/h2&gt;&#xA;&lt;p&gt;最近有巨量的算法实验以及报告要写，报告中对于算法的测试有一定的要求，我一直都想实现一个小工具帮我进行自动化的代码测试以及报告生成&lt;/p&gt;&#xA;&lt;h2 id=&#34;基本介绍&#34;&gt;基本介绍&lt;/h2&gt;&#xA;&lt;p&gt;这次通过这个机会，以及在Copilot的帮助下，我成功搭建出了一个简单的基于python和go的测试小工具，python负责测试样例的生成以及测试输出结果的分析报告生成，go部分负责需要测试的代码的实现以及运行测试的输入输出基本框架&lt;/p&gt;&#xA;&lt;p&gt;简而言之就是写了两个python脚本负责生成测试数据以及生成简易分析图像，一个go主程序main.go负责读取测试数据，调用需要测试的代码，计时，输出测试结果&#xA;需要测试的代码放在utils下，然后微调main.go中对于输入输出的设置即可&lt;/p&gt;&#xA;&lt;p&gt;项目地址在这里：&#xA;&lt;a href=&#34;https://github.com/mamashende/SimpleAlgorithmTestTool&#34;&gt;https://github.com/mamashende/SimpleAlgorithmTestTool&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;如果觉得好用的话，欢迎大家来提建议&lt;/p&gt;&#xA;&lt;h2 id=&#34;仍然存在的问题&#34;&gt;仍然存在的问题&lt;/h2&gt;&#xA;&lt;p&gt;目前仍然存在的巨大问题：找不到一个统一的方式去处理不同的输入输出要求&lt;/p&gt;&#xA;&lt;p&gt;对于算法的测试，不同的算法有不同的输入输出需求&#xA;例如一些是需要输入一个矩阵，另一些需要输入两个字符串，或者两个数组&#xA;另一些需要输入一个整数+一个字符串或者其他的数组&lt;/p&gt;&#xA;&lt;p&gt;还有一些需要输入指定个数的整数&amp;hellip;&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;因此目前还没有想到一个很好的办法一次性解决所有的输入输出问题&lt;/p&gt;</description>
     </item>
     <item>
       <title>代码测试小工具开发记录</title>
